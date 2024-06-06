@@ -1,0 +1,44 @@
+.latar{
+    -fx-background-color: #E6A6A7;
+    -fx-display : flex;
+    -fx-flex-direction : column;
+}
+
+.judul{
+    -fx-font-family: "Baskerville Old Face";
+    -fx-text-fill: #a26971;
+    -fx-font-size: 40px;
+}
+
+.button{
+    -fx-font-family: "Baskerville Old Face";
+    -fx-text-fill: #C68394;
+    -fx-font-size: 20px;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 45px;
+}
+
+.input{
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #CC7C84;
+    -fx-font-size: 20px;
+}
+
+.tabelInput{
+    -fx-pref-width: 350px;
+    -fx-pref-height: 25px;
+}
+
+.buttonS{
+    -fx-font-family: "Baskerville Old Face";
+    -fx-text-fill: #C76270;
+    -fx-font-size: 15px;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 20px;
+}
+
+.warning{
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #d30e0e;
+    -fx-font-size: 15px;
+}
